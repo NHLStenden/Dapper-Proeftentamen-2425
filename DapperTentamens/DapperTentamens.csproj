@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Dapper" Version="2.1.35" />
+      <PackageReference Include="FluentAssertions" Version="7.0.0" />
+      <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.13.0" />
+      <PackageReference Include="MySqlConnector" Version="2.4.0" />
+      <PackageReference Include="NUnit" Version="4.3.2" />
+      <PackageReference Include="Verify" Version="28.13.0" />
+      <PackageReference Include="Verify.NUnit" Version="28.13.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Update="Snapshots\Proeftentamen.TestGetProductsIncludeCategory.verified.txt">
+        <ParentFile>Proeftentamen</ParentFile>
+      </None>
+      <None Update="Snapshots\Proeftentamen.TestGetProductsMax.verified.txt">
+        <ParentFile>Proeftentamen</ParentFile>
+      </None>
+      <None Update="Snapshots\Proeftentamen.TestGetProductsMin.verified.txt">
+        <ParentFile>Proeftentamen</ParentFile>
+      </None>
+      <None Update="Snapshots\Proeftentamen.TestGetProductsMinAndMax.verified.txt">
+        <ParentFile>Proeftentamen</ParentFile>
+      </None>
+      <None Update="Snapshots\Proeftentamen.TestGetProductsNoFilter.verified.txt">
+        <ParentFile>Proeftentamen</ParentFile>
+      </None>
+      <None Update="Snapshots\Tentamen1.TestGetSuppliersByCityOrCountry.received.txt">
+        <ParentFile>Tentamen1</ParentFile>
+      </None>
+      <None Update="SQL\CreateTablesAndInsertData.sql">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+    </ItemGroup>
+
+</Project>

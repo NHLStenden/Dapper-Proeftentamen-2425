@@ -1,0 +1,262 @@
+﻿[
+  {
+    ProductID: 1,
+    ProductName: Chais,
+    SupplierID: 1,
+    CategoryID: 1,
+    Category: {
+      CategoryID: 1,
+      CategoryName: Beverages,
+      Description: Soft drinks, coffees, teas, beers, and ales
+    },
+    Unit: 10 boxes x 20 bags,
+    Price: 18.0
+  },
+  {
+    ProductID: 2,
+    ProductName: Chang,
+    SupplierID: 1,
+    CategoryID: 1,
+    Category: {
+      CategoryID: 1,
+      CategoryName: Beverages,
+      Description: Soft drinks, coffees, teas, beers, and ales
+    },
+    Unit: 24 - 12 oz bottles,
+    Price: 19.0
+  },
+  {
+    ProductID: 39,
+    ProductName: Chartreuse verte,
+    SupplierID: 18,
+    CategoryID: 1,
+    Category: {
+      CategoryID: 1,
+      CategoryName: Beverages,
+      Description: Soft drinks, coffees, teas, beers, and ales
+    },
+    Unit: 750 cc per bottle,
+    Price: 18.0
+  },
+  {
+    ProductID: 38,
+    ProductName: Côte de Blaye,
+    SupplierID: 18,
+    CategoryID: 1,
+    Category: {
+      CategoryID: 1,
+      CategoryName: Beverages,
+      Description: Soft drinks, coffees, teas, beers, and ales
+    },
+    Unit: 12 - 75 cl bottles,
+    Price: 263.5
+  },
+  {
+    ProductID: 24,
+    ProductName: Guaraná Fantástica,
+    SupplierID: 10,
+    CategoryID: 1,
+    Category: {
+      CategoryID: 1,
+      CategoryName: Beverages,
+      Description: Soft drinks, coffees, teas, beers, and ales
+    },
+    Unit: 12 - 355 ml cans,
+    Price: 4.5
+  },
+  {
+    ProductID: 43,
+    ProductName: Ipoh Coffee,
+    SupplierID: 20,
+    CategoryID: 1,
+    Category: {
+      CategoryID: 1,
+      CategoryName: Beverages,
+      Description: Soft drinks, coffees, teas, beers, and ales
+    },
+    Unit: 16 - 500 g tins,
+    Price: 46.0
+  },
+  {
+    ProductID: 76,
+    ProductName: Lakkalikööri,
+    SupplierID: 23,
+    CategoryID: 1,
+    Category: {
+      CategoryID: 1,
+      CategoryName: Beverages,
+      Description: Soft drinks, coffees, teas, beers, and ales
+    },
+    Unit: 500 ml,
+    Price: 18.0
+  },
+  {
+    ProductID: 67,
+    ProductName: Laughing Lumberjack Lager,
+    SupplierID: 16,
+    CategoryID: 1,
+    Category: {
+      CategoryID: 1,
+      CategoryName: Beverages,
+      Description: Soft drinks, coffees, teas, beers, and ales
+    },
+    Unit: 24 - 12 oz bottles,
+    Price: 14.0
+  },
+  {
+    ProductID: 70,
+    ProductName: Outback Lager,
+    SupplierID: 7,
+    CategoryID: 1,
+    Category: {
+      CategoryID: 1,
+      CategoryName: Beverages,
+      Description: Soft drinks, coffees, teas, beers, and ales
+    },
+    Unit: 24 - 355 ml bottles,
+    Price: 15.0
+  },
+  {
+    ProductID: 75,
+    ProductName: Rhönbräu Klosterbier,
+    SupplierID: 12,
+    CategoryID: 1,
+    Category: {
+      CategoryID: 1,
+      CategoryName: Beverages,
+      Description: Soft drinks, coffees, teas, beers, and ales
+    },
+    Unit: 24 - 0.5 l bottles,
+    Price: 7.75
+  },
+  {
+    ProductID: 34,
+    ProductName: Sasquatch Ale,
+    SupplierID: 16,
+    CategoryID: 1,
+    Category: {
+      CategoryID: 1,
+      CategoryName: Beverages,
+      Description: Soft drinks, coffees, teas, beers, and ales
+    },
+    Unit: 24 - 12 oz bottles,
+    Price: 14.0
+  },
+  {
+    ProductID: 35,
+    ProductName: Steeleye Stout,
+    SupplierID: 16,
+    CategoryID: 1,
+    Category: {
+      CategoryID: 1,
+      CategoryName: Beverages,
+      Description: Soft drinks, coffees, teas, beers, and ales
+    },
+    Unit: 24 - 12 oz bottles,
+    Price: 18.0
+  },
+  {
+    ProductID: 3,
+    ProductName: Aniseed Syrup,
+    SupplierID: 1,
+    CategoryID: 2,
+    Category: {
+      CategoryID: 2,
+      CategoryName: Condiments,
+      Description: Sweet and savory sauces, relishes, spreads, and seasonings
+    },
+    Unit: 12 - 550 ml bottles,
+    Price: 10.0
+  },
+  {
+    ProductID: 4,
+    ProductName: Chef Anton's Cajun Seasoning,
+    SupplierID: 2,
+    CategoryID: 2,
+    Category: {
+      CategoryID: 2,
+      CategoryName: Condiments,
+      Description: Sweet and savory sauces, relishes, spreads, and seasonings
+    },
+    Unit: 48 - 6 oz jars,
+    Price: 22.0
+  },
+  {
+    ProductID: 5,
+    ProductName: Chef Anton's Gumbo Mix,
+    SupplierID: 2,
+    CategoryID: 2,
+    Category: {
+      CategoryID: 2,
+      CategoryName: Condiments,
+      Description: Sweet and savory sauces, relishes, spreads, and seasonings
+    },
+    Unit: 36 boxes,
+    Price: 21.35
+  },
+  {
+    ProductID: 15,
+    ProductName: Genen Shouyu,
+    SupplierID: 6,
+    CategoryID: 2,
+    Category: {
+      CategoryID: 2,
+      CategoryName: Condiments,
+      Description: Sweet and savory sauces, relishes, spreads, and seasonings
+    },
+    Unit: 24 - 250 ml bottles,
+    Price: 15.5
+  },
+  {
+    ProductID: 6,
+    ProductName: Grandma's Boysenberry Spread,
+    SupplierID: 3,
+    CategoryID: 2,
+    Category: {
+      CategoryID: 2,
+      CategoryName: Condiments,
+      Description: Sweet and savory sauces, relishes, spreads, and seasonings
+    },
+    Unit: 12 - 8 oz jars,
+    Price: 25.0
+  },
+  {
+    ProductID: 44,
+    ProductName: Gula Malacca,
+    SupplierID: 20,
+    CategoryID: 2,
+    Category: {
+      CategoryID: 2,
+      CategoryName: Condiments,
+      Description: Sweet and savory sauces, relishes, spreads, and seasonings
+    },
+    Unit: 20 - 2 kg bags,
+    Price: 19.45
+  },
+  {
+    ProductID: 65,
+    ProductName: Louisiana Fiery Hot Pepper Sauce,
+    SupplierID: 2,
+    CategoryID: 2,
+    Category: {
+      CategoryID: 2,
+      CategoryName: Condiments,
+      Description: Sweet and savory sauces, relishes, spreads, and seasonings
+    },
+    Unit: 32 - 8 oz bottles,
+    Price: 21.05
+  },
+  {
+    ProductID: 66,
+    ProductName: Louisiana Hot Spiced Okra,
+    SupplierID: 2,
+    CategoryID: 2,
+    Category: {
+      CategoryID: 2,
+      CategoryName: Condiments,
+      Description: Sweet and savory sauces, relishes, spreads, and seasonings
+    },
+    Unit: 24 - 8 oz jars,
+    Price: 17.0
+  }
+]

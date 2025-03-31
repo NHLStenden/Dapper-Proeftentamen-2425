@@ -1,0 +1,1342 @@
+﻿[
+  {
+    CategoryID: 1,
+    CategoryName: Beverages,
+    Description: Soft drinks, coffees, teas, beers, and ales,
+    Products: [
+      {
+        CategoryID: 1,
+        Unit: 10 boxes x 20 bags,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 19.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 750 cc per bottle,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 12 - 75 cl bottles,
+        Price: 263.5
+      },
+      {
+        CategoryID: 1,
+        Unit: 12 - 355 ml cans,
+        Price: 4.5
+      },
+      {
+        CategoryID: 1,
+        Unit: 16 - 500 g tins,
+        Price: 46.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 500 ml,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 14.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 355 ml bottles,
+        Price: 15.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 0.5 l bottles,
+        Price: 7.75
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 14.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 18.0
+      }
+    ]
+  },
+  {
+    CategoryID: 1,
+    CategoryName: Beverages,
+    Description: Soft drinks, coffees, teas, beers, and ales,
+    Products: [
+      {
+        CategoryID: 1,
+        Unit: 10 boxes x 20 bags,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 19.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 750 cc per bottle,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 12 - 75 cl bottles,
+        Price: 263.5
+      },
+      {
+        CategoryID: 1,
+        Unit: 12 - 355 ml cans,
+        Price: 4.5
+      },
+      {
+        CategoryID: 1,
+        Unit: 16 - 500 g tins,
+        Price: 46.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 500 ml,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 14.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 355 ml bottles,
+        Price: 15.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 0.5 l bottles,
+        Price: 7.75
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 14.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 18.0
+      }
+    ]
+  },
+  {
+    CategoryID: 1,
+    CategoryName: Beverages,
+    Description: Soft drinks, coffees, teas, beers, and ales,
+    Products: [
+      {
+        CategoryID: 1,
+        Unit: 10 boxes x 20 bags,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 19.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 750 cc per bottle,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 12 - 75 cl bottles,
+        Price: 263.5
+      },
+      {
+        CategoryID: 1,
+        Unit: 12 - 355 ml cans,
+        Price: 4.5
+      },
+      {
+        CategoryID: 1,
+        Unit: 16 - 500 g tins,
+        Price: 46.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 500 ml,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 14.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 355 ml bottles,
+        Price: 15.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 0.5 l bottles,
+        Price: 7.75
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 14.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 18.0
+      }
+    ]
+  },
+  {
+    CategoryID: 1,
+    CategoryName: Beverages,
+    Description: Soft drinks, coffees, teas, beers, and ales,
+    Products: [
+      {
+        CategoryID: 1,
+        Unit: 10 boxes x 20 bags,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 19.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 750 cc per bottle,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 12 - 75 cl bottles,
+        Price: 263.5
+      },
+      {
+        CategoryID: 1,
+        Unit: 12 - 355 ml cans,
+        Price: 4.5
+      },
+      {
+        CategoryID: 1,
+        Unit: 16 - 500 g tins,
+        Price: 46.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 500 ml,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 14.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 355 ml bottles,
+        Price: 15.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 0.5 l bottles,
+        Price: 7.75
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 14.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 18.0
+      }
+    ]
+  },
+  {
+    CategoryID: 1,
+    CategoryName: Beverages,
+    Description: Soft drinks, coffees, teas, beers, and ales,
+    Products: [
+      {
+        CategoryID: 1,
+        Unit: 10 boxes x 20 bags,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 19.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 750 cc per bottle,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 12 - 75 cl bottles,
+        Price: 263.5
+      },
+      {
+        CategoryID: 1,
+        Unit: 12 - 355 ml cans,
+        Price: 4.5
+      },
+      {
+        CategoryID: 1,
+        Unit: 16 - 500 g tins,
+        Price: 46.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 500 ml,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 14.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 355 ml bottles,
+        Price: 15.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 0.5 l bottles,
+        Price: 7.75
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 14.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 18.0
+      }
+    ]
+  },
+  {
+    CategoryID: 1,
+    CategoryName: Beverages,
+    Description: Soft drinks, coffees, teas, beers, and ales,
+    Products: [
+      {
+        CategoryID: 1,
+        Unit: 10 boxes x 20 bags,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 19.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 750 cc per bottle,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 12 - 75 cl bottles,
+        Price: 263.5
+      },
+      {
+        CategoryID: 1,
+        Unit: 12 - 355 ml cans,
+        Price: 4.5
+      },
+      {
+        CategoryID: 1,
+        Unit: 16 - 500 g tins,
+        Price: 46.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 500 ml,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 14.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 355 ml bottles,
+        Price: 15.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 0.5 l bottles,
+        Price: 7.75
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 14.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 18.0
+      }
+    ]
+  },
+  {
+    CategoryID: 1,
+    CategoryName: Beverages,
+    Description: Soft drinks, coffees, teas, beers, and ales,
+    Products: [
+      {
+        CategoryID: 1,
+        Unit: 10 boxes x 20 bags,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 19.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 750 cc per bottle,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 12 - 75 cl bottles,
+        Price: 263.5
+      },
+      {
+        CategoryID: 1,
+        Unit: 12 - 355 ml cans,
+        Price: 4.5
+      },
+      {
+        CategoryID: 1,
+        Unit: 16 - 500 g tins,
+        Price: 46.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 500 ml,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 14.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 355 ml bottles,
+        Price: 15.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 0.5 l bottles,
+        Price: 7.75
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 14.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 18.0
+      }
+    ]
+  },
+  {
+    CategoryID: 1,
+    CategoryName: Beverages,
+    Description: Soft drinks, coffees, teas, beers, and ales,
+    Products: [
+      {
+        CategoryID: 1,
+        Unit: 10 boxes x 20 bags,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 19.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 750 cc per bottle,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 12 - 75 cl bottles,
+        Price: 263.5
+      },
+      {
+        CategoryID: 1,
+        Unit: 12 - 355 ml cans,
+        Price: 4.5
+      },
+      {
+        CategoryID: 1,
+        Unit: 16 - 500 g tins,
+        Price: 46.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 500 ml,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 14.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 355 ml bottles,
+        Price: 15.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 0.5 l bottles,
+        Price: 7.75
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 14.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 18.0
+      }
+    ]
+  },
+  {
+    CategoryID: 1,
+    CategoryName: Beverages,
+    Description: Soft drinks, coffees, teas, beers, and ales,
+    Products: [
+      {
+        CategoryID: 1,
+        Unit: 10 boxes x 20 bags,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 19.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 750 cc per bottle,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 12 - 75 cl bottles,
+        Price: 263.5
+      },
+      {
+        CategoryID: 1,
+        Unit: 12 - 355 ml cans,
+        Price: 4.5
+      },
+      {
+        CategoryID: 1,
+        Unit: 16 - 500 g tins,
+        Price: 46.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 500 ml,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 14.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 355 ml bottles,
+        Price: 15.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 0.5 l bottles,
+        Price: 7.75
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 14.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 18.0
+      }
+    ]
+  },
+  {
+    CategoryID: 1,
+    CategoryName: Beverages,
+    Description: Soft drinks, coffees, teas, beers, and ales,
+    Products: [
+      {
+        CategoryID: 1,
+        Unit: 10 boxes x 20 bags,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 19.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 750 cc per bottle,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 12 - 75 cl bottles,
+        Price: 263.5
+      },
+      {
+        CategoryID: 1,
+        Unit: 12 - 355 ml cans,
+        Price: 4.5
+      },
+      {
+        CategoryID: 1,
+        Unit: 16 - 500 g tins,
+        Price: 46.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 500 ml,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 14.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 355 ml bottles,
+        Price: 15.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 0.5 l bottles,
+        Price: 7.75
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 14.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 18.0
+      }
+    ]
+  },
+  {
+    CategoryID: 1,
+    CategoryName: Beverages,
+    Description: Soft drinks, coffees, teas, beers, and ales,
+    Products: [
+      {
+        CategoryID: 1,
+        Unit: 10 boxes x 20 bags,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 19.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 750 cc per bottle,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 12 - 75 cl bottles,
+        Price: 263.5
+      },
+      {
+        CategoryID: 1,
+        Unit: 12 - 355 ml cans,
+        Price: 4.5
+      },
+      {
+        CategoryID: 1,
+        Unit: 16 - 500 g tins,
+        Price: 46.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 500 ml,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 14.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 355 ml bottles,
+        Price: 15.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 0.5 l bottles,
+        Price: 7.75
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 14.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 18.0
+      }
+    ]
+  },
+  {
+    CategoryID: 1,
+    CategoryName: Beverages,
+    Description: Soft drinks, coffees, teas, beers, and ales,
+    Products: [
+      {
+        CategoryID: 1,
+        Unit: 10 boxes x 20 bags,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 19.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 750 cc per bottle,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 12 - 75 cl bottles,
+        Price: 263.5
+      },
+      {
+        CategoryID: 1,
+        Unit: 12 - 355 ml cans,
+        Price: 4.5
+      },
+      {
+        CategoryID: 1,
+        Unit: 16 - 500 g tins,
+        Price: 46.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 500 ml,
+        Price: 18.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 14.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 355 ml bottles,
+        Price: 15.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 0.5 l bottles,
+        Price: 7.75
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 14.0
+      },
+      {
+        CategoryID: 1,
+        Unit: 24 - 12 oz bottles,
+        Price: 18.0
+      }
+    ]
+  },
+  {
+    CategoryID: 2,
+    CategoryName: Condiments,
+    Description: Sweet and savory sauces, relishes, spreads, and seasonings,
+    Products: [
+      {
+        CategoryID: 2,
+        Unit: 12 - 550 ml bottles,
+        Price: 10.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 48 - 6 oz jars,
+        Price: 22.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 36 boxes,
+        Price: 21.35
+      },
+      {
+        CategoryID: 2,
+        Unit: 24 - 250 ml bottles,
+        Price: 15.5
+      },
+      {
+        CategoryID: 2,
+        Unit: 12 - 8 oz jars,
+        Price: 25.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 20 - 2 kg bags,
+        Price: 19.45
+      },
+      {
+        CategoryID: 2,
+        Unit: 32 - 8 oz bottles,
+        Price: 21.05
+      },
+      {
+        CategoryID: 2,
+        Unit: 24 - 8 oz jars,
+        Price: 17.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 12 - 12 oz jars,
+        Price: 40.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 12 boxes,
+        Price: 13.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 24 - 500 ml bottles,
+        Price: 28.5
+      },
+      {
+        CategoryID: 2,
+        Unit: 15 - 625 g jars,
+        Price: 43.9
+      }
+    ]
+  },
+  {
+    CategoryID: 2,
+    CategoryName: Condiments,
+    Description: Sweet and savory sauces, relishes, spreads, and seasonings,
+    Products: [
+      {
+        CategoryID: 2,
+        Unit: 12 - 550 ml bottles,
+        Price: 10.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 48 - 6 oz jars,
+        Price: 22.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 36 boxes,
+        Price: 21.35
+      },
+      {
+        CategoryID: 2,
+        Unit: 24 - 250 ml bottles,
+        Price: 15.5
+      },
+      {
+        CategoryID: 2,
+        Unit: 12 - 8 oz jars,
+        Price: 25.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 20 - 2 kg bags,
+        Price: 19.45
+      },
+      {
+        CategoryID: 2,
+        Unit: 32 - 8 oz bottles,
+        Price: 21.05
+      },
+      {
+        CategoryID: 2,
+        Unit: 24 - 8 oz jars,
+        Price: 17.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 12 - 12 oz jars,
+        Price: 40.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 12 boxes,
+        Price: 13.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 24 - 500 ml bottles,
+        Price: 28.5
+      },
+      {
+        CategoryID: 2,
+        Unit: 15 - 625 g jars,
+        Price: 43.9
+      }
+    ]
+  },
+  {
+    CategoryID: 2,
+    CategoryName: Condiments,
+    Description: Sweet and savory sauces, relishes, spreads, and seasonings,
+    Products: [
+      {
+        CategoryID: 2,
+        Unit: 12 - 550 ml bottles,
+        Price: 10.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 48 - 6 oz jars,
+        Price: 22.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 36 boxes,
+        Price: 21.35
+      },
+      {
+        CategoryID: 2,
+        Unit: 24 - 250 ml bottles,
+        Price: 15.5
+      },
+      {
+        CategoryID: 2,
+        Unit: 12 - 8 oz jars,
+        Price: 25.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 20 - 2 kg bags,
+        Price: 19.45
+      },
+      {
+        CategoryID: 2,
+        Unit: 32 - 8 oz bottles,
+        Price: 21.05
+      },
+      {
+        CategoryID: 2,
+        Unit: 24 - 8 oz jars,
+        Price: 17.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 12 - 12 oz jars,
+        Price: 40.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 12 boxes,
+        Price: 13.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 24 - 500 ml bottles,
+        Price: 28.5
+      },
+      {
+        CategoryID: 2,
+        Unit: 15 - 625 g jars,
+        Price: 43.9
+      }
+    ]
+  },
+  {
+    CategoryID: 2,
+    CategoryName: Condiments,
+    Description: Sweet and savory sauces, relishes, spreads, and seasonings,
+    Products: [
+      {
+        CategoryID: 2,
+        Unit: 12 - 550 ml bottles,
+        Price: 10.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 48 - 6 oz jars,
+        Price: 22.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 36 boxes,
+        Price: 21.35
+      },
+      {
+        CategoryID: 2,
+        Unit: 24 - 250 ml bottles,
+        Price: 15.5
+      },
+      {
+        CategoryID: 2,
+        Unit: 12 - 8 oz jars,
+        Price: 25.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 20 - 2 kg bags,
+        Price: 19.45
+      },
+      {
+        CategoryID: 2,
+        Unit: 32 - 8 oz bottles,
+        Price: 21.05
+      },
+      {
+        CategoryID: 2,
+        Unit: 24 - 8 oz jars,
+        Price: 17.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 12 - 12 oz jars,
+        Price: 40.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 12 boxes,
+        Price: 13.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 24 - 500 ml bottles,
+        Price: 28.5
+      },
+      {
+        CategoryID: 2,
+        Unit: 15 - 625 g jars,
+        Price: 43.9
+      }
+    ]
+  },
+  {
+    CategoryID: 2,
+    CategoryName: Condiments,
+    Description: Sweet and savory sauces, relishes, spreads, and seasonings,
+    Products: [
+      {
+        CategoryID: 2,
+        Unit: 12 - 550 ml bottles,
+        Price: 10.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 48 - 6 oz jars,
+        Price: 22.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 36 boxes,
+        Price: 21.35
+      },
+      {
+        CategoryID: 2,
+        Unit: 24 - 250 ml bottles,
+        Price: 15.5
+      },
+      {
+        CategoryID: 2,
+        Unit: 12 - 8 oz jars,
+        Price: 25.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 20 - 2 kg bags,
+        Price: 19.45
+      },
+      {
+        CategoryID: 2,
+        Unit: 32 - 8 oz bottles,
+        Price: 21.05
+      },
+      {
+        CategoryID: 2,
+        Unit: 24 - 8 oz jars,
+        Price: 17.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 12 - 12 oz jars,
+        Price: 40.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 12 boxes,
+        Price: 13.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 24 - 500 ml bottles,
+        Price: 28.5
+      },
+      {
+        CategoryID: 2,
+        Unit: 15 - 625 g jars,
+        Price: 43.9
+      }
+    ]
+  },
+  {
+    CategoryID: 2,
+    CategoryName: Condiments,
+    Description: Sweet and savory sauces, relishes, spreads, and seasonings,
+    Products: [
+      {
+        CategoryID: 2,
+        Unit: 12 - 550 ml bottles,
+        Price: 10.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 48 - 6 oz jars,
+        Price: 22.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 36 boxes,
+        Price: 21.35
+      },
+      {
+        CategoryID: 2,
+        Unit: 24 - 250 ml bottles,
+        Price: 15.5
+      },
+      {
+        CategoryID: 2,
+        Unit: 12 - 8 oz jars,
+        Price: 25.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 20 - 2 kg bags,
+        Price: 19.45
+      },
+      {
+        CategoryID: 2,
+        Unit: 32 - 8 oz bottles,
+        Price: 21.05
+      },
+      {
+        CategoryID: 2,
+        Unit: 24 - 8 oz jars,
+        Price: 17.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 12 - 12 oz jars,
+        Price: 40.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 12 boxes,
+        Price: 13.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 24 - 500 ml bottles,
+        Price: 28.5
+      },
+      {
+        CategoryID: 2,
+        Unit: 15 - 625 g jars,
+        Price: 43.9
+      }
+    ]
+  },
+  {
+    CategoryID: 2,
+    CategoryName: Condiments,
+    Description: Sweet and savory sauces, relishes, spreads, and seasonings,
+    Products: [
+      {
+        CategoryID: 2,
+        Unit: 12 - 550 ml bottles,
+        Price: 10.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 48 - 6 oz jars,
+        Price: 22.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 36 boxes,
+        Price: 21.35
+      },
+      {
+        CategoryID: 2,
+        Unit: 24 - 250 ml bottles,
+        Price: 15.5
+      },
+      {
+        CategoryID: 2,
+        Unit: 12 - 8 oz jars,
+        Price: 25.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 20 - 2 kg bags,
+        Price: 19.45
+      },
+      {
+        CategoryID: 2,
+        Unit: 32 - 8 oz bottles,
+        Price: 21.05
+      },
+      {
+        CategoryID: 2,
+        Unit: 24 - 8 oz jars,
+        Price: 17.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 12 - 12 oz jars,
+        Price: 40.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 12 boxes,
+        Price: 13.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 24 - 500 ml bottles,
+        Price: 28.5
+      },
+      {
+        CategoryID: 2,
+        Unit: 15 - 625 g jars,
+        Price: 43.9
+      }
+    ]
+  },
+  {
+    CategoryID: 2,
+    CategoryName: Condiments,
+    Description: Sweet and savory sauces, relishes, spreads, and seasonings,
+    Products: [
+      {
+        CategoryID: 2,
+        Unit: 12 - 550 ml bottles,
+        Price: 10.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 48 - 6 oz jars,
+        Price: 22.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 36 boxes,
+        Price: 21.35
+      },
+      {
+        CategoryID: 2,
+        Unit: 24 - 250 ml bottles,
+        Price: 15.5
+      },
+      {
+        CategoryID: 2,
+        Unit: 12 - 8 oz jars,
+        Price: 25.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 20 - 2 kg bags,
+        Price: 19.45
+      },
+      {
+        CategoryID: 2,
+        Unit: 32 - 8 oz bottles,
+        Price: 21.05
+      },
+      {
+        CategoryID: 2,
+        Unit: 24 - 8 oz jars,
+        Price: 17.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 12 - 12 oz jars,
+        Price: 40.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 12 boxes,
+        Price: 13.0
+      },
+      {
+        CategoryID: 2,
+        Unit: 24 - 500 ml bottles,
+        Price: 28.5
+      },
+      {
+        CategoryID: 2,
+        Unit: 15 - 625 g jars,
+        Price: 43.9
+      }
+    ]
+  }
+]

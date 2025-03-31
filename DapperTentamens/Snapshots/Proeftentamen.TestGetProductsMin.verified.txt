@@ -1,0 +1,34 @@
+﻿[
+  {
+    ProductID: 3,
+    ProductName: Aniseed Syrup,
+    SupplierID: 1,
+    CategoryID: 2,
+    Unit: 12 - 550 ml bottles,
+    Price: 10.0
+  },
+  {
+    ProductID: 74,
+    ProductName: Longlife Tofu,
+    SupplierID: 4,
+    CategoryID: 7,
+    Unit: 5 kg pkg.,
+    Price: 10.0
+  },
+  {
+    ProductID: 21,
+    ProductName: Sir Rodney's Scones,
+    SupplierID: 8,
+    CategoryID: 3,
+    Unit: 24 pkgs. x 4 pieces,
+    Price: 10.0
+  },
+  {
+    ProductID: 46,
+    ProductName: Spegesild,
+    SupplierID: 21,
+    CategoryID: 8,
+    Unit: 4 - 450 g glasses,
+    Price: 12.0
+  }
+]
