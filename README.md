@@ -1,7 +1,7 @@
 Met `CreateTablesAndInsertData.sql` kan je de database aanmaken.
 
 Het tentamen staat in `TentamenX.cs`. Waarbij X de eerste kans of tweede kans is. 
-De test staan in de test-directory. 
+De test staan in de Tests directory. 
 
 Je kan iedere vraag testen, de test staan onder de vraag.
 De testen zijn gemaakt met Nunit. 
