@@ -1,6 +1,4 @@
-Met `SQL/CreateTables.sql` kan je de database aanmaken.
-In `SQL/Insert.sql` staan de records voor deze database.
-In Webshop Database Diagram staat een diagram van de database.
+Met `CreateTablesAndInsertData.sql` kan je de database aanmaken.
 
 Het tentamen staat in `TentamenX.cs`. Waarbij X de eerste kans of tweede kans is. 
 De test staan in de test-directory. 
